@@ -1,4 +1,4 @@
-# Machine Learning Based Quanutm Circuit Optimisation
+# Machine Learning Based Quantum Circuit Optimisation
 ## Training RandomForestClassifier on TKET quantum circuits to reccomend optimisation passes
 
 ## Overview
